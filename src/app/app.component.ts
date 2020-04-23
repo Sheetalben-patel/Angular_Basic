@@ -16,8 +16,3 @@ export class AppComponent {
     console.log("Favourite Changed ");
   }
 }
-
-
-
-
-#dhshdjs
